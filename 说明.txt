@@ -1,1 +1,1 @@
-地址:C:\\mingw64\\bin\\g++.exe
+mgwin64环境变量地址:C:\\mingw64\\bin\\g++.exe
